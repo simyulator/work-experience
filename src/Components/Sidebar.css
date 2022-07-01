@@ -1,0 +1,14 @@
+.sidebar-root {
+    display: flex;
+    background: #324ea8;
+    width: 250px;
+    flex-direction: column;
+}
+
+.sidebar-list-container {
+    width: 100%
+}
+
+.sidebar-list-item {
+    color: white;
+}
